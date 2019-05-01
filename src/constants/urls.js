@@ -1,0 +1,1 @@
+export const taco = 'http://taco-randomizer.herokuapp.com/random/'
